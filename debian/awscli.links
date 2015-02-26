@@ -1,0 +1,4 @@
+/usr/share/awscli/bin/aws /usr/bin/aws
+/usr/share/awscli/bin/aws.cmd /usr/bin/aws.cmd
+/usr/share/awscli/bin/aws_completer /usr/bin/aws_completer
+/usr/share/awscli/bin/aws_zsh_completer.sh /usr/bin/aws_zsh_completer.sh 
